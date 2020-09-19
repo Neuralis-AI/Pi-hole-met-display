@@ -1,6 +1,8 @@
 # Pi-hole-met-display
 
 In deze repository vind je alle informatie en handleidingen om je Raspberry Pi zero W(H) te configureren om Pi-hole te installeren en gebruiken in combinatie met de waveshare 2.13" e-ink display.  
+
+Productlijst: https://neuralis.ai/?product=pi-hole-kit
   
 # Raspberry pi zero W  
 Gebruik de raspberry pi imager (https://www.raspberrypi.org/downloads/)  
